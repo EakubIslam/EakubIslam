@@ -1,5 +1,5 @@
 
-<h1 align="center">hi..  I'm  Md.Eakub Islam </h1>
+<h1 align="center">Hi..  I'm  Md Eakub Islam </h1>
 <h3 align="center">Passionate Competitive Programmer </h3>
 <h3 align="center" >Dept of CSTE, Noakhali Science and Technology University.</h3>
 <br>
